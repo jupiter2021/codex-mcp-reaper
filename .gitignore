@@ -1,0 +1,12 @@
+# 运行产物（可能含本机进程 PID / 路径信息，切勿提交）
+*.log
+*-state.json
+mcp-reaper-state.json
+
+# 打包产物
+*.zip
+
+# 系统
+Thumbs.db
+desktop.ini
+.DS_Store
